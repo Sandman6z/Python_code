@@ -5,5 +5,5 @@ print('You are',age,'years old.\n')
 if age>12 and age<20:
     print('You are a teenager!')
 else:
-        print('You are old!!!')
+    print('You are old!!!')
 input('\n按任意键以退出')        
